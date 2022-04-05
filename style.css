@@ -1,0 +1,15 @@
+h1{
+    font-family: fantasy;
+}
+p{
+    font-family: cursive;
+}
+body{
+    background-color: rgb(187, 218, 213);
+}
+#descricao{
+    color: green;
+}
+li{
+    font-size: 20px;
+}
