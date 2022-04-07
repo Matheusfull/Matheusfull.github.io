@@ -2,14 +2,31 @@ h1{
     font-family: fantasy;
 }
 p{
-    font-family: cursive;
+    font-family: monospace;
 }
 body{
     background-color: rgb(187, 218, 213);
 }
 #descricao{
     color: green;
+    font-style: italic;
+    font-size: 20px;
 }
 li{
+    font-size: 20px;
+}
+#x1{
+    font-size: 40px;
+}
+#x2{
+    font-size: 35px;
+}
+#x3{
+    font-size: 30px;
+}
+#x4{
+    font-size: 25px;
+}
+#x5{
     font-size: 20px;
 }
