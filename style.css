@@ -30,3 +30,36 @@ li{
 #x5{
     font-size: 20px;
 }
+#x6{
+    font-size: 15px;
+}
+#x1, #x3, #x5{
+    font-family: monospace;
+    color: darkcyan;
+    line-height: 60px;
+    font-style: italic;
+}
+
+
+
+#img{
+    display: inline;
+    padding: 5px;
+    background-color: aquamarine;
+}
+#descricao{
+    width: 400px;
+    margin-left: 620px;
+    margin-top: -400px;
+}
+#lista{
+    margin-top: 380px;
+}
+h1{
+    text-align: center;
+}
+#habilidades{
+    margin: 1px solid black;
+    padding-left: 50px;
+    font-size: 20px;
+}
